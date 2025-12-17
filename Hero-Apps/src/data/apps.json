@@ -1,0 +1,218 @@
+[
+  {
+    "image": "/assets/demo-app%20(1).webp",
+    "title": "SparkNotes",
+    "companyName": "Bright Labs",
+    "id": 1,
+    "description": "Quick summaries and study tools for students.",
+    "size": 48,
+    "reviews": 124,
+    "ratingAvg": 4.5,
+    "downloads": 125000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 21 },
+      { "name": "4 star", "count": 40 },
+      { "name": "5 star", "count": 50 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app%20(2).webp",
+    "title": "FitTrack",
+    "companyName": "HealthCorp",
+    "id": 2,
+    "description": "A lightweight fitness tracker with goals and analytics.",
+    "size": 60,
+    "reviews": 230,
+    "ratingAvg": 4.2,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 70 }
+    ]
+  },
+  {
+    "image":"/assets/demo-app%20(3).webp",
+    "title": "BudgetBuddy",
+    "companyName": "SmartMoney",
+    "id": 3,
+    "description": "Personal finance manager for expense tracking.",
+    "size": 34,
+    "reviews": 98,
+    "ratingAvg": 4.0,
+    "downloads": 98000,
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 24 },
+      { "name": "4 star", "count": 28 },
+      { "name": "5 star", "count": 28 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app%20(4).webp",
+    "title": "PhotoEdit Pro",
+    "companyName": "PixelWorks",
+    "id": 4,
+    "description": "Powerful photo editor with filters and layers.",
+    "size": 120,
+    "reviews": 540,
+    "ratingAvg": 4.7,
+    "downloads": 760000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 313 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app%20(5).webp",
+    "title": "CookBook",
+    "companyName": "Kitchenly",
+    "id": 5,
+    "description": "Discover and save recipes from around the world.",
+    "size": 28,
+    "reviews": 67,
+    "ratingAvg": 4.1,
+    "downloads": 45000,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 6 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 18 },
+      { "name": "5 star", "count": 20 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app%20(6).webp",
+    "title": "NewsFlash",
+    "companyName": "DailyWire",
+    "id": 6,
+    "description": "Curated news feed with personalization.",
+    "size": 22,
+    "reviews": 410,
+    "ratingAvg": 3.9,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 120 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app%20(7).webp",
+    "title": "TravelMate",
+    "companyName": "WanderCo",
+    "id": 7,
+    "description": "Plan trips, manage itineraries, and share photos.",
+    "size": 80,
+    "reviews": 180,
+    "ratingAvg": 4.4,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 70 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app(8).webp",
+    "title": "FocusTimer",
+    "companyName": "Productiv",
+    "id": 8,
+    "description": "Pomodoro timer with stats and reminders.",
+    "size": 12,
+    "reviews": 54,
+    "ratingAvg": 4.3,
+    "downloads": 78000,
+    "ratings": [
+      { "name": "1 star", "count": 1 },
+      { "name": "2 star", "count": 2 },
+      { "name": "3 star", "count": 10 },
+      { "name": "4 star", "count": 20 },
+      { "name": "5 star", "count": 21 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app(9).webp",
+    "title": "LearnLang",
+    "companyName": "Polyglot Inc",
+    "id": 9,
+    "description": "Language learning with daily challenges.",
+    "size": 95,
+    "reviews": 330,
+    "ratingAvg": 4.6,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 205 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app(10).webp",
+    "title": "Mindful",
+    "companyName": "ZenSoft",
+    "id": 10,
+    "description": "Meditation and breathing exercises for beginners.",
+    "size": 25,
+    "reviews": 210,
+    "ratingAvg": 4.4,
+    "downloads": 195000,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 70 },
+      { "name": "5 star", "count": 108 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app(11).webp",
+    "title": "DailyNotes",
+    "companyName": "NoteWorks",
+    "id": 11,
+    "description": "Simple note-taking with tags and search.",
+    "size": 10,
+    "reviews": 44,
+    "ratingAvg": 4.0,
+    "downloads": 33000,
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 4 },
+      { "name": "3 star", "count": 10 },
+      { "name": "4 star", "count": 12 },
+      { "name": "5 star", "count": 16 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app(12).webp",
+    "title": "WeatherNow",
+    "companyName": "SkyNet",
+    "id": 12,
+    "description": "Local weather forecasts and radar maps.",
+    "size": 40,
+    "reviews": 500,
+    "ratingAvg": 4.2,
+    "downloads": 620000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 160 },
+      { "name": "5 star", "count": 180 }
+    ]
+  }
+]
